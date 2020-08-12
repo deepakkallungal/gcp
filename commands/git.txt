@@ -1,0 +1,6 @@
+git config --global user.name "Deepak Kallungal"
+git config --global user.email "deepakkallungal@gmail.com"
+git init
+git clone https://github.com/deepakkallungal/<project>.git
+git commit -a
+git push origin master
