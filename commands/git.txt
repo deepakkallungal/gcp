@@ -1,5 +1,5 @@
-git config --global user.name "Deepak Kallungal"
-git config --global user.email "deepakkallungal@gmail.com"
+git config --global user.name "Name"
+git config --global user.email "email"
 git init
 git clone https://github.com/deepakkallungal/<project>.git
 git commit -a
